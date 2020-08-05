@@ -7,15 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E64FF1F24D7CD3C0040AF8C /* page6, taille robes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF1E24D7CD3C0040AF8C /* page6, taille robes.swift */; };
+		7E64FF2124D7D1D20040AF8C /* page9, taille chaussures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2024D7D1D20040AF8C /* page9, taille chaussures.swift */; };
+		7E64FF2324D7D55D0040AF8C /* page3, ceintures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2224D7D55D0040AF8C /* page3, ceintures.swift */; };
+		7E64FF2524D7D71B0040AF8C /* page2, chaussures bebe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2424D7D71B0040AF8C /* page2, chaussures bebe.swift */; };
+		7E64FF2724D7DB600040AF8C /* page7, taille chapeau.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2624D7DB600040AF8C /* page7, taille chapeau.swift */; };
+		7E64FF2924D7DEE90040AF8C /* page8, taille chausette.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2824D7DEE90040AF8C /* page8, taille chausette.swift */; };
+		7E64FF2B24D7E0560040AF8C /* page4,5,taille haut et bas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2A24D7E0560040AF8C /* page4,5,taille haut et bas.swift */; };
+		7E64FF2D24D7E1470040AF8C /* page5 taille bas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E64FF2C24D7E1470040AF8C /* page5 taille bas.swift */; };
 		7EC0B9B824D3CE1500F694CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC0B9B724D3CE1500F694CF /* AppDelegate.swift */; };
 		7EC0B9BA24D3CE1500F694CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC0B9B924D3CE1500F694CF /* SceneDelegate.swift */; };
 		7EC0B9BC24D3CE1500F694CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC0B9BB24D3CE1500F694CF /* ContentView.swift */; };
 		7EC0B9BE24D3CE1B00F694CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EC0B9BD24D3CE1B00F694CF /* Assets.xcassets */; };
 		7EC0B9C124D3CE1B00F694CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EC0B9C024D3CE1B00F694CF /* Preview Assets.xcassets */; };
 		7EC0B9C424D3CE1B00F694CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EC0B9C224D3CE1B00F694CF /* LaunchScreen.storyboard */; };
+		7EC0B9CC24D52BB100F694CF /* page1,bebe vetements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC0B9CB24D52BB100F694CF /* page1,bebe vetements.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E64FF1E24D7CD3C0040AF8C /* page6, taille robes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page6, taille robes.swift"; sourceTree = "<group>"; };
+		7E64FF2024D7D1D20040AF8C /* page9, taille chaussures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page9, taille chaussures.swift"; sourceTree = "<group>"; };
+		7E64FF2224D7D55D0040AF8C /* page3, ceintures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page3, ceintures.swift"; sourceTree = "<group>"; };
+		7E64FF2424D7D71B0040AF8C /* page2, chaussures bebe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page2, chaussures bebe.swift"; sourceTree = "<group>"; };
+		7E64FF2624D7DB600040AF8C /* page7, taille chapeau.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page7, taille chapeau.swift"; sourceTree = "<group>"; };
+		7E64FF2824D7DEE90040AF8C /* page8, taille chausette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page8, taille chausette.swift"; sourceTree = "<group>"; };
+		7E64FF2A24D7E0560040AF8C /* page4,5,taille haut et bas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page4,5,taille haut et bas.swift"; sourceTree = "<group>"; };
+		7E64FF2C24D7E1470040AF8C /* page5 taille bas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page5 taille bas.swift"; sourceTree = "<group>"; };
 		7EC0B9B424D3CE1500F694CF /* convertisseur de messuresf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "convertisseur de messuresf.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EC0B9B724D3CE1500F694CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EC0B9B924D3CE1500F694CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +41,7 @@
 		7EC0B9C024D3CE1B00F694CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7EC0B9C324D3CE1B00F694CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EC0B9C524D3CE1B00F694CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EC0B9CB24D52BB100F694CF /* page1,bebe vetements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "page1,bebe vetements.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +77,15 @@
 				7EC0B9B724D3CE1500F694CF /* AppDelegate.swift */,
 				7EC0B9B924D3CE1500F694CF /* SceneDelegate.swift */,
 				7EC0B9BB24D3CE1500F694CF /* ContentView.swift */,
+				7EC0B9CB24D52BB100F694CF /* page1,bebe vetements.swift */,
+				7E64FF2424D7D71B0040AF8C /* page2, chaussures bebe.swift */,
+				7E64FF2224D7D55D0040AF8C /* page3, ceintures.swift */,
+				7E64FF2A24D7E0560040AF8C /* page4,5,taille haut et bas.swift */,
+				7E64FF2C24D7E1470040AF8C /* page5 taille bas.swift */,
+				7E64FF1E24D7CD3C0040AF8C /* page6, taille robes.swift */,
+				7E64FF2624D7DB600040AF8C /* page7, taille chapeau.swift */,
+				7E64FF2824D7DEE90040AF8C /* page8, taille chausette.swift */,
+				7E64FF2024D7D1D20040AF8C /* page9, taille chaussures.swift */,
 				7EC0B9BD24D3CE1B00F694CF /* Assets.xcassets */,
 				7EC0B9C224D3CE1B00F694CF /* LaunchScreen.storyboard */,
 				7EC0B9C524D3CE1B00F694CF /* Info.plist */,
@@ -146,9 +173,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E64FF2124D7D1D20040AF8C /* page9, taille chaussures.swift in Sources */,
 				7EC0B9B824D3CE1500F694CF /* AppDelegate.swift in Sources */,
+				7E64FF2924D7DEE90040AF8C /* page8, taille chausette.swift in Sources */,
+				7EC0B9CC24D52BB100F694CF /* page1,bebe vetements.swift in Sources */,
+				7E64FF2D24D7E1470040AF8C /* page5 taille bas.swift in Sources */,
 				7EC0B9BA24D3CE1500F694CF /* SceneDelegate.swift in Sources */,
+				7E64FF2524D7D71B0040AF8C /* page2, chaussures bebe.swift in Sources */,
 				7EC0B9BC24D3CE1500F694CF /* ContentView.swift in Sources */,
+				7E64FF1F24D7CD3C0040AF8C /* page6, taille robes.swift in Sources */,
+				7E64FF2324D7D55D0040AF8C /* page3, ceintures.swift in Sources */,
+				7E64FF2724D7DB600040AF8C /* page7, taille chapeau.swift in Sources */,
+				7E64FF2B24D7E0560040AF8C /* page4,5,taille haut et bas.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
